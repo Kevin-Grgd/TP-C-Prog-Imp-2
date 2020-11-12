@@ -1,0 +1,11 @@
+3) Types
+
+  x=5/i;
+  Le resultat affiché est un flottant correspondant à la division entière de 5 par 2.
+
+
+  Le resultat affiché est un flottant correspondant à la division de 5 par 2 pour chaque changement de formule de la ligne "x=5/i"
+
+  Si l'on remplace le %f par %d dans le printf, il y a une erreur à la compilation, le programme ne peut afficher un entier puisque c'est un float.
+
+
